@@ -1,0 +1,5 @@
+classes= 1
+# train  = yolov3_small_targets_train.txt
+# valid  = yolov3_small_targets_test.txt
+names = yolov3_small_targets.names
+# backup = yolov3_small_targets_backup
